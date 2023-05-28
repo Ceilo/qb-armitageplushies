@@ -1,5 +1,5 @@
 ### qb-armitageplushies
-##CUSTOM PLUSHIES QB CORE FRAMEWORK BASED FOR GTAV/FIVEM
+## CUSTOM PLUSHIES QB CORE FRAMEWORK BASED FOR GTAV/FIVEM
 
 ![image](https://github.com/Ceilo/qb-armitageplushies/assets/49612041/7e51222f-6115-4aed-818b-915ddf7f9e1a)
 
